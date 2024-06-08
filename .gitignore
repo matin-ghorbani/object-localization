@@ -1,0 +1,6 @@
+*.csv
+*.jpg
+*.png
+__pycache__
+.vscode
+.idea
