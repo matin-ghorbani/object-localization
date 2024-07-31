@@ -1,2 +1,2 @@
-# object-detection
-Implement an object detection from scratch using PyTorch
+# object-localization
+Implement an object localization from scratch using PyTorch
